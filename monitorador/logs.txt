@@ -1,0 +1,9 @@
+02/01/2024 17:34:06 site: https://www.alura.com.br online: true
+02/01/2024 17:34:06 site: https://www.google.com online: true
+02/01/2024 17:34:06 site: https://www.casadocodigo.com.br online: true
+02/01/2024 17:34:23 site: https://www.alura.com.br online: true
+02/01/2024 17:34:23 site: https://www.google.com online: true
+02/01/2024 17:34:23 site: https://www.casadocodigo.com.br online: true
+02/01/2024 17:36:12 site: https://www.alura.com.br online: true
+02/01/2024 17:36:12 site: https://www.google.com online: true
+02/01/2024 17:36:12 site: https://www.casadocodigo.com.br online: true
